@@ -169,7 +169,7 @@ const Articles = () => {
                       </Underlining>
                     </span>
                     <h4 className="title">{item.title}</h4>
-                    <span className="date">{parseDate(item.pubDate)}</span>
+                    <span className="date">{item.pubDate}</span>
                   </div>
                 </a>
               ))
