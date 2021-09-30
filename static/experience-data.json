@@ -1,24 +1,9 @@
 {
     "status": "ok",
-    "feed": {
-      "url": "https://medium.com/feed/@konstantinmuenster",
-      "title": "Stories by Dicki Darmawan Saputra on Medium",
-      "link": "https://medium.com/@konstantinmuenster?source=rss-8f0f16947df9------2",
-      "author": "",
-      "description": "Stories by Dicki Darmawan Saputra on Medium",
-      "image": "https://cdn-images-1.medium.com/fit/c/150/150/2*pVRD0ivCUOfNhw6o4fuJPA.jpeg"
-    },
     "items": [
       {
-        "title": "Backend Developer",
-        "pubDate": "Full-time",
-        "link": "",
-        "guid": "",
-        "author": "Dicki Darmawan Saputra",
-        "thumbnail": "",
-        "description": "",
-        "content": "",
-        "enclosure": {},
+        "position": "Backend Developer",
+        "jobType": "Full-time",
         "categories": [
           "Oxxo Creative Digital Agency",
           "Oxxo Creative Digital Agency",
@@ -28,15 +13,8 @@
         ]
       },
       {
-        "title": "Zethlabs Indonesia",
-        "pubDate": "Part-time",
-        "link": "",
-        "guid": "",
-        "author": "Dicki Darmawan Saputra",
-        "thumbnail": "",
-        "description": "",
-        "content": "",
-        "enclosure": {},
+        "position": "Zethlabs Indonesia",
+        "jobType": "Part-time",
         "categories": [
           "Freelance Programmer",
           "Freelance Programmer",
@@ -46,14 +24,8 @@
         ]
       },
       {
-        "title": "Idekite Indonesia",
-        "pubDate": "Full-time",
-        "link": "",
-        "author": "Dicki Darmawan Saputra",
-        "thumbnail": "",
-        "description": "",
-        "content": "",
-        "enclosure": {},
+        "position": "Idekite Indonesia",
+        "jobType": "Full-time",
         "categories": [
           "Software Engineer",
           "Software Engineer",
@@ -63,15 +35,8 @@
         ]
       },
       {
-        "title": "Cloud Company (SISFO)",
-        "pubDate": "Part-time",
-        "link": "",
-        "guid": "",
-        "author": "Dicki Darmawan Saputra",
-        "thumbnail": "",
-        "description": "",
-        "content": "",
-        "enclosure": {},
+        "position": "Cloud Company (SISFO)",
+        "jobType": "Part-time",
         "categories": [
           "Freelance Programmer",
           "Freelance Programmer",

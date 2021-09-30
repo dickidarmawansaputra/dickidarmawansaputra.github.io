@@ -158,7 +158,7 @@ const Articles = () => {
                   href={item.link}
                   target="_blank"
                   rel="nofollow noopener noreferrer"
-                  title={item.title}
+                  title={item.position}
                   aria-label={item.link}
                   key={item.link}
                 >
@@ -168,8 +168,8 @@ const Articles = () => {
                         {item.categories[2]}
                       </Underlining>
                     </span>
-                    <h4 className="title">{item.title}</h4>
-                    <span className="date">{item.pubDate}</span>
+                    <h4 className="title">{item.position}</h4>
+                    <span className="date">{item.jobType}</span>
                   </div>
                 </a>
               ))
