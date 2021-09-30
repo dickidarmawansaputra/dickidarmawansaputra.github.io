@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "items": [
+      {
+        "position": "Backend Developer",
+        "jobType": "Full-time",
+        "categories": [
+          "Oxxo Creative Digital Agency",
+          "Oxxo Creative Digital Agency",
+          "Oxxo Creative Digital Agency",
+          "Oxxo Creative Digital Agency",
+          "Oxxo Creative Digital Agency"
+        ]
+      },
+      {
+        "position": "Zethlabs Indonesia",
+        "jobType": "Part-time",
+        "categories": [
+          "Freelance Programmer",
+          "Freelance Programmer",
+          "Freelance Programmer",
+          "Freelance Programmer",
+          "Freelance Programmer"
+        ]
+      },
+      {
+        "position": "Idekite Indonesia",
+        "jobType": "Full-time",
+        "categories": [
+          "Software Engineer",
+          "Software Engineer",
+          "Software Engineer",
+          "Software Engineer",
+          "Software Engineer"
+        ]
+      },
+      {
+        "position": "Cloud Company (SISFO)",
+        "jobType": "Part-time",
+        "categories": [
+          "Freelance Programmer",
+          "Freelance Programmer",
+          "Freelance Programmer",
+          "Freelance Programmer",
+          "Freelance Programmer"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://dickidarmawansaputra.github.io/sitemap.xml
+Host: https://dickidarmawansaputra.github.io
