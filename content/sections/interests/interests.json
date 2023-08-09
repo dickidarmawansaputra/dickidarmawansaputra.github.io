@@ -1,0 +1,142 @@
+{
+    "interests": [
+      {
+        "label": "PHP",
+        "image": {
+          "src": "../../images/php.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Laravel Framework",
+        "image": {
+          "src": "../../images/laravel.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Go",
+        "image": {
+          "src": "../../images/go.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Go Fiber Framework",
+        "image": {
+          "src": "../../images/gofiber.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "MySQL / MariaDB",
+        "image": {
+          "src": "../../images/mysql.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "PostgreSQL",
+        "image": {
+          "src": "../../images/postgresql.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "JavaScript",
+        "image": {
+          "src": "../../images/javascript.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "jQuery",
+        "image": {
+          "src": "../../images/jquery.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Apache",
+        "image": {
+          "src": "../../images/apache.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Nginx",
+        "image": {
+          "src": "../../images/nginx.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Git",
+        "image": {
+          "src": "../../images/git.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Linux",
+        "image": {
+          "src": "../../images/linux.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "HTML",
+        "image": {
+          "src": "../../images/html.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "CSS",
+        "image": {
+          "src": "../../images/css.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Bootstrap",
+        "image": {
+          "src": "../../images/bootstrap.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "AWS: (Basic)",
+        "image": {
+          "src": "../../images/aws.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "GCP: (Basic)",
+        "image": {
+          "src": "../../images/gcp.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Docker: (YT Course)",
+        "image": {
+          "src": "../../images/docker.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "MongoDB: (YT Course)",
+        "image": {
+          "src": "../../images/mongodb.png",
+          "alt": ""
+        }
+      }
+    ],
+    "button": {
+      "visible": true,
+      "label": "+ Load More",
+      "initiallyShownInterests": 5
+    }
+  }
