@@ -4,6 +4,7 @@ node_modules
 !node_modules/gatsby-theme-portfolio-minimal/src/sections/About/index.tsx
 !node_modules/gatsby-theme-portfolio-minimal/src/components/Project/index.tsx
 !node_modules/gatsby-theme-portfolio-minimal/src/sections/Contact/index.tsx
+!node_modules\gatsby-theme-portfolio-minimal\src\sections\Hero\data.tsx
 /.pnp
 .pnp.js
 
