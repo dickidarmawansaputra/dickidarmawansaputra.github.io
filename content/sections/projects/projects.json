@@ -2,6 +2,17 @@
     "projects": [
       {
         "visible": true,
+        "category": "Freelance [Jul 2022 - Present]",
+        "title": "Web Programmer",
+        "description": "Responsibilities: <ul><li>BBPOM Pontianak: Create tracking features with QR Code for tracking sample test result of BBPOM Pontianak, website development.)</li><li>Kantor Imigrasi Pontianak: website development</li><li>Bridging BPJS SIMRS: Bridging Antrean RS</li></ul>",
+        "tags": ["BBPOM Pontianak", "Kantor Imigrasi Pontianak", "Bridging BPJS (Antrean RS)"],
+        "image": {
+          "src": "../../images/freelance.jpg",
+          "alt": "Freelance"
+        }
+      },
+      {
+        "visible": true,
         "category": "RevivaLTV [Nov 2021 - Jun 2022]",
         "title": "Backend Developer",
         "description": "Responsibilities: <ul><li>Code refactoring/code improvement and implement TDD <b><u>[RevivalPedia]</u></b></li><li>Implement and increase integration testing API coverage to existing API <b><u>[RevivalPedia, RevivaLTV, Revival Livescore]</u></b></li><li>Improve code quality using <b><u>Larastan</u>:</b> code analysis tool <b><u>[RevivaLTV, Revival Livescore]</u></b></li><li>Build mobile API from existing API <b><u>[RevivaLTV New World]</u></b></li><li>RnD & impelement MeiliSearch to existing API for create global search mobile API <b><u>[RevivaLTV New World]</u></b></li><li>RnD & implement FusionAuth SSO Providers Google to existing Login/Register API <b>(Integration only, FusionAuth is ready)</b> <b><u>[RevivaLTV]</u></b></li><li>RnD Statamic for replace Wordpress CMS <b><u>[RevivaLTV News]</u></b></li><li>Bugfix, maintenance, and create new features based on PRD</li></ul>",
