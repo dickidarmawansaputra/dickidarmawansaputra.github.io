@@ -1,0 +1,22 @@
+{
+    "intro": "Hi",
+    "heroPhoto": {
+        "src": "../../images/profile.png",
+        "alt": "My Photo"
+    },
+    "image": {
+        "src": "../../images/waving-hand.png",
+        "alt": "Waving Hand Emoji"
+    },
+    "title": "I'm Dicki Darmawan Saputra",
+    "subtitle": {
+        "prefix": "as ",
+        "highlight": "Backend Developer",
+        "suffix": "."
+    },
+    "description": "I am an experienced Backend Developer with about 3 years of experience. I have knowledge of Laravel (PHP) and am currently learning Go-Lang to upgrade my skills and knowledge. See more in the <a href='#about'><u>About</u></a> section.",
+    "socialProfiles": {
+        "from": ["LinkedIn", "Github", "Mail"],
+        "showIcons": true
+    }
+}

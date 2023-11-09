@@ -1,0 +1,44 @@
+{
+    "stacks": [
+      {
+        "label": "Go",
+        "image": {
+          "src": "../../images/go.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Gofiber Framework",
+        "image": {
+          "src": "../../images/gofiber.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Docker",
+        "image": {
+          "src": "../../images/docker.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "MongoDB",
+        "image": {
+          "src": "../../images/mongodb.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Redis",
+        "image": {
+          "src": "../../images/redis.png",
+          "alt": ""
+        }
+      }
+    ],
+    "button": {
+      "visible": true,
+      "label": "+ Load More",
+      "initiallyShownStacks": 5
+    }
+  }
