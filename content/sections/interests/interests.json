@@ -15,20 +15,6 @@
         }
       },
       {
-        "label": "Go",
-        "image": {
-          "src": "../../images/go.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Go Fiber Framework",
-        "image": {
-          "src": "../../images/gofiber.png",
-          "alt": ""
-        }
-      },
-      {
         "label": "MySQL / MariaDB",
         "image": {
           "src": "../../images/mysql.png",
@@ -53,6 +39,27 @@
         "label": "jQuery",
         "image": {
           "src": "../../images/jquery.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "HTML",
+        "image": {
+          "src": "../../images/html.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "CSS",
+        "image": {
+          "src": "../../images/css.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Bootstrap",
+        "image": {
+          "src": "../../images/bootstrap.png",
           "alt": ""
         }
       },
@@ -85,27 +92,6 @@
         }
       },
       {
-        "label": "HTML",
-        "image": {
-          "src": "../../images/html.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "CSS",
-        "image": {
-          "src": "../../images/css.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Bootstrap",
-        "image": {
-          "src": "../../images/bootstrap.png",
-          "alt": ""
-        }
-      },
-      {
         "label": "AWS: (Basic)",
         "image": {
           "src": "../../images/aws.png",
@@ -116,20 +102,6 @@
         "label": "GCP: (Basic)",
         "image": {
           "src": "../../images/gcp.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Docker: (YT Course)",
-        "image": {
-          "src": "../../images/docker.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "MongoDB: (YT Course)",
-        "image": {
-          "src": "../../images/mongodb.png",
           "alt": ""
         }
       }
