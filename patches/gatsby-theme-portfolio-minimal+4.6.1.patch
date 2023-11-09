@@ -1,26 +1,3 @@
-diff --git a/node_modules/gatsby-theme-portfolio-minimal/content/sections/stack/stacks.example.json b/node_modules/gatsby-theme-portfolio-minimal/content/sections/stack/stacks.example.json
-new file mode 100644
-index 0000000..5b1ce18
---- /dev/null
-+++ b/node_modules/gatsby-theme-portfolio-minimal/content/sections/stack/stacks.example.json
-@@ -0,0 +1,17 @@
-+{
-+    "stacks": [
-+        {
-+            "label": "",
-+            "image": {
-+                "src": "",
-+                "alt": "",
-+                "objectFit": ""
-+            }
-+        }
-+    ],
-+    "button": {
-+        "visible": true,
-+        "label": "",
-+        "initiallyShownStacks": 5
-+    }
-+}
 diff --git a/node_modules/gatsby-theme-portfolio-minimal/content/sections/stacks/stacks.example.json b/node_modules/gatsby-theme-portfolio-minimal/content/sections/stacks/stacks.example.json
 new file mode 100644
 index 0000000..5b1ce18
