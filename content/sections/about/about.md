@@ -3,7 +3,7 @@ imageSrc: "../../images/about.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-I am an experienced Backend Developer with about 3 years of experience. I have knowledge of Laravel (PHP) and am currently learning Go-Lang to upgrade my skills and knowledge.
+I am an experienced Backend Developer / Web Developer with about 3 years of experience. I have knowledge of Laravel (PHP) and am currently learning Go-Lang to upgrade my skills and knowledge.
 
 I have learning Go-Lang: <a href="https://github.com/dickidarmawansaputra/belajargolang" target="_blank"><u>Github Learning Go-Lang</u></a>
 And some the online courses I've taken:
