@@ -1,6 +1,20 @@
 {
     "interests": [
       {
+        "label": "Apiato",
+        "image": {
+          "src": "../../images/apiato.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Laravel",
+        "image": {
+          "src": "../../images/laravel.png",
+          "alt": ""
+        }
+      },
+      {
         "label": "PHP",
         "image": {
           "src": "../../images/php.png",
@@ -8,9 +22,9 @@
         }
       },
       {
-        "label": "Laravel Framework",
+        "label": "PostgreSQL",
         "image": {
-          "src": "../../images/laravel.png",
+          "src": "../../images/postgresql.png",
           "alt": ""
         }
       },
@@ -22,9 +36,37 @@
         }
       },
       {
-        "label": "PostgreSQL",
+        "label": "Meilisearch",
         "image": {
-          "src": "../../images/postgresql.png",
+          "src": "../../images/meilisearch.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Redis",
+        "image": {
+          "src": "../../images/redis.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Docker",
+        "image": {
+          "src": "../../images/docker.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Git",
+        "image": {
+          "src": "../../images/git.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Linux",
+        "image": {
+          "src": "../../images/linux.png",
           "alt": ""
         }
       },
@@ -74,20 +116,6 @@
         "label": "Nginx",
         "image": {
           "src": "../../images/nginx.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Git",
-        "image": {
-          "src": "../../images/git.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Linux",
-        "image": {
-          "src": "../../images/linux.png",
           "alt": ""
         }
       },
