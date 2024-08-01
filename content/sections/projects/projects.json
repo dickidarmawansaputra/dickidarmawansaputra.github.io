@@ -5,11 +5,29 @@
         "category": "Gak Gendut Lagi (GGL) [Feb 2024 - Present]",
         "title": "Junior Backend Engineer",
         "description": "Responsibilities: <ul><li>Food Search Engineering:</li><li>GGL CMS with Directus CMS:</li><li>GGL Step Counter & Leaderboard:</li><li>additional:</li></ul>",
-        "tags": ["GGL Mobile App", "GGL Web App", "GGL Admin", "GGL CMS"],
+        "tags": ["Apiato", "Porto SAP", "PHP", "Directus", "Meilisearch", "PostgreSQL", "Docker"],
         "image": {
           "src": "../../images/ggl.png",
           "alt": "Gak Gendut Lagi (GGL)"
-        }
+        },
+        "links": [
+          {
+            "type": "external",
+            "url": "https://ggl.life/"
+          },
+          {
+            "type": "external",
+            "url": "https://app.ggl.life/"
+          },
+          {
+            "type": "external",
+            "url": "https://play.google.com/store/apps/details?id=ggl.app&hl=en_US"
+          },
+          {
+            "type": "external",
+            "url": "https://apps.apple.com/id/app/ggl-smart-fitness-nutrition/id6446887152"
+          }
+        ]
       },
       {
         "visible": true,
