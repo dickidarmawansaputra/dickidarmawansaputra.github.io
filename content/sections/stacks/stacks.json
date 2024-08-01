@@ -1,6 +1,13 @@
 {
     "stacks": [
       {
+        "label": "Gofiber",
+        "image": {
+          "src": "../../images/gofiber.png",
+          "alt": ""
+        }
+      },
+      {
         "label": "Go",
         "image": {
           "src": "../../images/go.png",
@@ -8,9 +15,9 @@
         }
       },
       {
-        "label": "Gofiber Framework",
+        "label": "Node JS",
         "image": {
-          "src": "../../images/gofiber.png",
+          "src": "../../images/nodejs.png",
           "alt": ""
         }
       },

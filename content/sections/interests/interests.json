@@ -22,20 +22,6 @@
         }
       },
       {
-        "label": "PostgreSQL",
-        "image": {
-          "src": "../../images/postgresql.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "MySQL / MariaDB",
-        "image": {
-          "src": "../../images/mysql.png",
-          "alt": ""
-        }
-      },
-      {
         "label": "Meilisearch",
         "image": {
           "src": "../../images/meilisearch.png",
@@ -46,6 +32,27 @@
         "label": "Redis",
         "image": {
           "src": "../../images/redis.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Directus",
+        "image": {
+          "src": "../../images/directus.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "PostgreSQL",
+        "image": {
+          "src": "../../images/postgresql.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "MySQL / MariaDB",
+        "image": {
+          "src": "../../images/mysql.png",
           "alt": ""
         }
       },
@@ -71,16 +78,16 @@
         }
       },
       {
-        "label": "JavaScript",
+        "label": "jQuery",
         "image": {
-          "src": "../../images/javascript.png",
+          "src": "../../images/jquery.png",
           "alt": ""
         }
       },
       {
-        "label": "jQuery",
+        "label": "JavaScript",
         "image": {
-          "src": "../../images/jquery.png",
+          "src": "../../images/javascript.png",
           "alt": ""
         }
       },
