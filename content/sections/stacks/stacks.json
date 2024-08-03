@@ -15,6 +15,13 @@
         }
       },
       {
+        "label": "NestJS",
+        "image": {
+          "src": "../../images/nestjs.png",
+          "alt": ""
+        }
+      },
+      {
         "label": "Node JS",
         "image": {
           "src": "../../images/nodejs.png",

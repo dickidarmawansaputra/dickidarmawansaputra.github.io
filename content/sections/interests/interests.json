@@ -99,6 +99,20 @@
         }
       },
       {
+        "label": "Apache",
+        "image": {
+          "src": "../../images/apache.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Nginx",
+        "image": {
+          "src": "../../images/nginx.png",
+          "alt": ""
+        }
+      },
+      {
         "label": "HTML",
         "image": {
           "src": "../../images/html.png",
@@ -116,20 +130,6 @@
         "label": "Bootstrap",
         "image": {
           "src": "../../images/bootstrap.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Apache",
-        "image": {
-          "src": "../../images/apache.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Nginx",
-        "image": {
-          "src": "../../images/nginx.png",
           "alt": ""
         }
       },
