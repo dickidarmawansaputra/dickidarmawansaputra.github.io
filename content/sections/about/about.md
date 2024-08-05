@@ -3,7 +3,8 @@ imageSrc: "../../images/about.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-I am an experienced Backend Developer / Web Developer with about 3 years of experience. I have knowledge of Laravel (PHP) and am currently learning Go-Lang to upgrade my skills and knowledge.
+I am an experienced Back End Engineer with about 3 years of experience. Currently i used Apiato (Built on top of Laravel) with
+Porto SAP (software architectural pattern) for Back End. Also i am currently learning Go and NodeJS to upgrade my skills and knowledge.
 
 I have learning Go-Lang: <a href="https://github.com/dickidarmawansaputra/belajargolang" target="_blank"><u>Github Learning Go-Lang</u></a>
 And some the online courses I've taken:
