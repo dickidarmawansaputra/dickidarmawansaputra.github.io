@@ -14,7 +14,7 @@
         "highlight": "Backend Developer",
         "suffix": "."
     },
-    "description": "I am an experienced Backend Developer / Web Developer with about 3 years of experience. I have knowledge of Laravel (PHP) and am currently learning Go-Lang to upgrade my skills and knowledge. See more in the <a href='#about'><u>About</u></a> section.",
+    "description": "I am an experienced Back End Engineer with about 3 years of experience. Currently i used Apiato (Built on top of Laravel) with Porto SAP (software architectural pattern) for Back End. Also i am currently learning Go and NodeJS to upgrade my skills and knowledge. See more in the <a href='#about'><u>About</u></a> section.",
     "socialProfiles": {
         "from": ["LinkedIn", "Github", "Mail"],
         "showIcons": true
