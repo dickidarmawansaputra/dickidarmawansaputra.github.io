@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Laravel",
+        "icon": "src/images/skills/laravel.svg",
+        "description": "Laravel is a web application framework with expressive, elegant syntax.",
+        "url": "https://laravel.com"
+    },
+    {
+        "name": "Apiato",
+        "icon": "src/images/skills/apiato.png",
+        "description": "A powerful PHP web framework for building scalable, enterprise-grade APIs.",
+        "url": "https://apiato.io"
+    },
+    {
+        "name": "Filament",
+        "icon": "src/images/skills/filament.svg",
+        "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app.",
+        "url": "https://filamentphp.com"
+    },
+    {
+        "name": "Livewire",
+        "icon": "src/images/skills/livewire.png",
+        "description": "A full-stack framework for Laravel that allows you to build dynamic UI components without leaving PHP.",
+        "url": "https://livewire.laravel.com"
+    },
+    {
+        "name": "Alpine.js",
+        "icon": "src/images/skills/alpinejs.png",
+        "description": "Alpine is a rugged, minimal tool for composing behavior directly in your markup.",
+        "url": "https://alpinejs.dev"
+    },
+    {
+        "name": "Meilisearch",
+        "icon": "src/images/skills/meilisearch.svg",
+        "description": "A lightning-fast search engine API that fits effortlessly into your apps, websites, and workflow.",
+        "url": "https://meilisearch.com"
+    },
+    {
+        "name": "Redis",
+        "icon": "src/images/skills/redis.svg",
+        "description": "Redis is an in-memory database that persists on disk.",
+        "url": "https://redis.io"
+    },
+    {
+        "name": "PHPStan",
+        "icon": "src/images/skills/phpstan.png",
+        "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+        "url": "https://phpstan.org"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "src/images/skills/bootstrap.png",
+        "description": "Powerful, extensible, and feature-packed frontend toolkit.",
+        "url": "https://getbootstrap.com"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "src/images/skills/postgresql.png",
+        "description": "The World's Most Advanced Open Source Relational Database.",
+        "url": "https://postgresql.org"
+    },
+    {
+        "name": "MySQL",
+        "icon": "src/images/skills/mysql.png",
+        "description": "MySQL is the world's most popular open source database.",
+        "url": "https://mysql.com"
+    },
+    {
+        "name": "Git",
+        "icon": "src/images/skills/git.svg",
+        "description": "Distributed VCS designed to handle everything from small to very large projects with speed and efficiency.",
+        "url": "https://git.com"
+    },
+    {
+        "name": "Docker",
+        "icon": "src/images/skills/docker.svg",
+        "description": "Docker is an open platform for developing, shipping, and running applications.",
+        "url": "https://docker.com"
+    },
+    {
+        "name": "Directus",
+        "icon": "src/images/skills/directus.svg",
+        "description": "Turn your database into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+        "url": "https://directus.io"
+    },
+    {
+        "name": "Apache",
+        "icon": "src/images/skills/apache.png",
+        "description": "An open-source HTTP server for modern operating systems including UNIX and Windows.",
+        "url": "https://httpd.apache.org"
+    },
+    {
+        "name": "Nginx",
+        "icon": "src/images/skills/nginx.png",
+        "description": "HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy and mail proxy server.",
+        "url": "https://nginx.org"
+    },
+    {
+        "name": "Linux",
+        "icon": "src/images/skills/linux.png",
+        "description": "Linux is a Unix-like, open source and community-developed operating system (OS).",
+        "url": "https://linux.org"
+    }
+]
