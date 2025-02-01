@@ -128,15 +128,13 @@
             <div class="grid grid-cols-1 gap-6 md:grid-cols-4" x-data="{ skills: [] }"
                 x-init="skills = await (await fetch('src/data/skill.json')).json()">
                 <template x-for="skill in skills">
-                    <div class="flex flex-col items-center pb-10">
-                        <img class="w-10 h-10 p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500"
-                            :src="skill.icon" :alt="skill.name">
-                        <span x-text="skill.description" class="text-sm text-gray-500 dark:text-gray-400"></span>
-                        <div class="flex mt-4 md:mt-6">
-                            <a x-text="skill.name" :href="skill.url" target="_blank"
-                                class="text-xs text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-lg px-3 py-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700"></a>
+                    <a :href="skill.url" target="_blank" class="flex items-center gap-4">
+                        <img class="w-10 h-10 rounded-full" :src="skill.icon" :alt="skill.name">
+                        <div class="font-medium dark:text-white">
+                            <div x-text="skill.name"></div>
+                            <div class="text-sm text-gray-500 dark:text-gray-400" x-text="skill.description"></div>
                         </div>
-                    </div>
+                    </a>
                 </template>
             </div>
         </div>
