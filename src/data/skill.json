@@ -24,10 +24,16 @@
         "url": "https://livewire.laravel.com"
     },
     {
-        "name": "Alpine.js",
-        "icon": "src/images/skills/alpinejs.png",
-        "description": "Alpine is a rugged, minimal tool for composing behavior directly in your markup.",
-        "url": "https://alpinejs.dev"
+        "name": "FrankenPHP",
+        "icon": "src/images/skills/frankenphp.svg",
+        "description": "The Modern PHP App Server, written in Go.",
+        "url": "https://frankenphp.dev"
+    },
+    {
+        "name": "Fiber",
+        "icon": "src/images/skills/fiber.svg",
+        "description": "Fiber is a Go web framework built on top of Fasthttp, the fastest HTTP engine for Go.",
+        "url": "https://frankenphp.dev"
     },
     {
         "name": "Meilisearch",
