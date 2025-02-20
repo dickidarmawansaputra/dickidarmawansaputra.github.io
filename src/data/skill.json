@@ -36,6 +36,12 @@
         "url": "https://frankenphp.dev"
     },
     {
+        "name": "Vue",
+        "icon": "src/images/skills/vue.svg",
+        "description": "An approachable, performant and versatile framework for building web user interfaces.",
+        "url": "https://vuejs.org"
+    },
+    {
         "name": "Meilisearch",
         "icon": "src/images/skills/meilisearch.svg",
         "description": "A lightning-fast search engine API that fits effortlessly into your apps, websites, and workflow.",
