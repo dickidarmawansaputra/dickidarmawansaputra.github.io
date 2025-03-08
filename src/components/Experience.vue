@@ -8,6 +8,10 @@ watchEffect(() => {
         .then(response => response.json())
         .then(data => experiences.value = data);
 });
+
+function getImageUrl(fileName) {
+    return new URL(`../assets/images/experiences/${fileName}`, import.meta.url);
+}
 </script>
 
 <template>
@@ -28,7 +32,7 @@ watchEffect(() => {
                     <li class="mb-10 ms-6">
                         <span
                             class="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
-                            <img v-bind:src="experience.logo" v-bind:alt="experience.company">
+                            <img v-bind:src="getImageUrl(experience.logo)" v-bind:alt="experience.company">
                         </span>
                         <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
                             {{ experience.company }}

@@ -5,6 +5,9 @@ import { useData } from '../../store';
 const isDark = useDark();
 const toggleDark = useToggle(isDark);
 const dataStore = useData();
+function getResume() {    
+    return new URL(`../../assets/documents/resume.pdf`, import.meta.url);
+}
 </script>
 
 <template>
@@ -72,7 +75,7 @@ const dataStore = useData();
                             class="block py-2 px-3 md:p-0 text-gray-900 rounded-sm hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Contact</router-link>
                     </li>
                     <li>
-                        <a href="src/assets/documents/resume.pdf" target="_blank"
+                        <a :href="getResume()" target="_blank"
                             exactActiveClass="block py-2 px-3 md:p-0 text-white bg-blue-700 rounded-sm md:bg-transparent md:text-blue-700 md:dark:text-blue-500"
                             class="block py-2 px-3 md:p-0 text-gray-900 rounded-sm hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Resume</a>
                     </li>

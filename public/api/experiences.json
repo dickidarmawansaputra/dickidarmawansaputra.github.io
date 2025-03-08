@@ -1,28 +1,28 @@
 [
     {
         "company": "Gak Gendut Lagi (GGL)",
-        "logo": "../../src/assets/images/experiences/ggl.png",
+        "logo": "ggl.png",
         "title": "Backend Engineer",
         "period": "Feb 2024 - Aug 2024",
         "isLatest": true
     },
     {
         "company": "RevivaLTV",
-        "logo": "../../src/assets/images/experiences/revivaltv.svg",
+        "logo": "revivaltv.svg",
         "title": "Backend Developer",
         "period": "Nov 2021 - Jun 2022",
         "isLatest": false
     },
     {
         "company": "Oxxo Creative Digital Agency",
-        "logo": "../../src/assets/images/experiences/oxxo.png",
+        "logo": "oxxo.png",
         "title": "Backend Developer",
         "period": "May 2020 - Jul 2021",
         "isLatest": false
     },
     {
         "company": "Idekite Indonesia",
-        "logo": "../../src/assets/images/experiences/idekite.png",
+        "logo": "idekite.png",
         "title": "Software Engineer",
         "period": "Nov 2017 - Jan 2019",
         "isLatest": false

@@ -1,91 +1,106 @@
 [
     {
+        "id": 1,
         "name": "Laravel",
-        "image": "../../src/assets/images/skills/laravel.png",
+        "image": "laravel.png",
         "description": "Laravel is a web application framework with expressive, elegant syntax.",
         "url": "https://laravel.com"
     },
     {
+        "id": 2,
         "name": "Apiato",
-        "image": "../../src/assets/images/skills/apiato.png",
+        "image": "apiato.png",
         "description": "A powerful PHP web framework for building scalable, enterprise-grade APIs.",
         "url": "https://apiato.io"
     },
     {
+        "id": 3,
         "name": "Filament",
-        "image": "../../src/assets/images/skills/filament.png",
+        "image": "filament.png",
         "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app.",
         "url": "https://filamentphp.com"
     },
     {
+        "id": 4,
         "name": "Livewire",
-        "image": "../../src/assets/images/skills/livewire.png",
+        "image": "livewire.png",
         "description": "A full-stack framework for Laravel that allows you to build dynamic UI components without leaving PHP.",
         "url": "https://livewire.laravel.com"
     },
     {
+        "id": 5,
         "name": "Meilisearch",
-        "image": "../../src/assets/images/skills/meilisearch.png",
+        "image": "meilisearch.png",
         "description": "A lightning-fast search engine API that fits effortlessly into your apps, websites, and workflow.",
         "url": "https://meilisearch.com"
     },
     {
+        "id": 6,
         "name": "Redis",
-        "image": "../../src/assets/images/skills/redis.png",
+        "image": "redis.png",
         "description": "Redis is an in-memory database that persists on disk.",
         "url": "https://redis.io"
     },
     {
+        "id": 7,
         "name": "PostgreSQL",
-        "image": "../../src/assets/images/skills/postgresql.png",
+        "image": "postgresql.png",
         "description": "The World's Most Advanced Open Source Relational Database.",
         "url": "https://postgresql.org"
     },
     {
+        "id": 8,
         "name": "MySQL",
-        "image": "../../src/assets/images/skills/mysql.png",
+        "image": "mysql.png",
         "description": "MySQL is the world's most popular open source database.",
         "url": "https://mysql.com"
     },
     {
+        "id": 9,
         "name": "Docker",
-        "image": "../../src/assets/images/skills/docker.png",
+        "image": "docker.png",
         "description": "Docker is an open platform for developing, shipping, and running applications.",
         "url": "https://docker.com"
     },
     {
+        "id": 10,
         "name": "Fiber",
-        "image": "../../src/assets/images/skills/fiber.png",
+        "image": "fiber.png",
         "description": "Fiber is a Go web framework built on top of Fasthttp, the fastest HTTP engine for Go.",
         "url": "https://frankenphp.dev"
     },
     {
+        "id": 11,
         "name": "Vue",
-        "image": "../../src/assets/images/skills/vue.png",
+        "image": "vue.png",
         "description": "An approachable, performant and versatile framework for building web user interfaces.",
         "url": "https://vuejs.org"
     },
     {
+        "id": 12,
         "name": "Git",
-        "image": "../../src/assets/images/skills/git.png",
+        "image": "git.png",
         "description": "Distributed VCS designed to handle everything from small to very large projects with speed and efficiency.",
         "url": "https://git.com"
     },
     {
+        "id": 13,
         "name": "PHPStan",
-        "image": "../../src/assets/images/skills/phpstan.png",
+        "image": "phpstan.png",
         "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
         "url": "https://phpstan.org"
     },
     {
+        "id": 14,
         "name": "Bootstrap",
-        "image": "../../src/assets/images/skills/bootstrap.png",
+        "image": "bootstrap.png",
         "description": "Powerful, extensible, and feature-packed frontend toolkit.",
         "url": "https://getbootstrap.com"
     },
     {
+        "id": 15,
         "name": "Directus",
-        "image": "../../src/assets/images/skills/directus.png",
+        "image": "directus.png",
         "description": "Turn your database into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
         "url": "https://directus.io"
     }

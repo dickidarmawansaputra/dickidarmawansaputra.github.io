@@ -11,6 +11,14 @@ watchEffect(() => {
 });
 
 const isDark = useDark();
+
+function getImageUrl(fileName) {
+    return new URL(`../assets/images/skills/${fileName}`, import.meta.url);
+}
+
+function getResume() {
+    return new URL(`../assets/documents/resume.pdf`, import.meta.url);
+}
 </script>
 
 <template>
@@ -51,7 +59,7 @@ const isDark = useDark();
                         </svg>
                         Vue.js
                     </a>
-                    <a href="src/assets/documents/resume.pdf" target="_blank"
+                    <a :href="getResume()" target="_blank"
                         class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-e-lg hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-2 focus:ring-blue-700 focus:text-blue-700 dark:bg-gray-800 dark:border-gray-700 dark:text-white dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-blue-500 dark:focus:text-white">
                         <svg class="w-6 h-6 me-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24"
                             height="24" fill="none" viewBox="0 0 24 24">
@@ -67,10 +75,10 @@ const isDark = useDark();
 
 
         <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
-            <div v-for="skill in skills">
+            <div v-for="skill in skills" :key="skill.id">
                 <a v-bind:href="skill.url" target="_blank">
                     <img class="h-auto max-w-full rounded-lg transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0"
-                        v-bind:src="skill.image" v-bind:alt="skill.name">
+                        v-bind:src="getImageUrl(skill.image)" v-bind:alt="skill.name">
                 </a>
             </div>
         </div>
