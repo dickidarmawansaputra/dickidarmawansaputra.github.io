@@ -28,7 +28,7 @@ function getImageUrl(fileName) {
                     that I have worked with.</p>
                 <hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700">
                 <ol class="relative ml-4 border-s border-gray-200 dark:border-gray-700 text-left"
-                    v-for="experience in experiences">
+                    v-for="experience in experiences" :key="experience.id">
                     <li class="mb-10 ms-6">
                         <span
                             class="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">

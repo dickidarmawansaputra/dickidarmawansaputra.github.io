@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "company": "Gak Gendut Lagi (GGL)",
         "logo": "ggl.png",
         "title": "Backend Engineer",
@@ -7,6 +8,7 @@
         "isLatest": true
     },
     {
+        "id": 2,
         "company": "RevivaLTV",
         "logo": "revivaltv.svg",
         "title": "Backend Developer",
@@ -14,6 +16,7 @@
         "isLatest": false
     },
     {
+        "id": 3,
         "company": "Oxxo Creative Digital Agency",
         "logo": "oxxo.png",
         "title": "Backend Developer",
@@ -21,6 +24,7 @@
         "isLatest": false
     },
     {
+        "id": 4,
         "company": "Idekite Indonesia",
         "logo": "idekite.png",
         "title": "Software Engineer",
