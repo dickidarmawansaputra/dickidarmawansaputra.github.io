@@ -5,7 +5,7 @@ import { useData } from '../../store';
 const isDark = useDark();
 const toggleDark = useToggle(isDark);
 const dataStore = useData();
-function getResume() {    
+function getResume() {
     return new URL(`../../assets/documents/resume.pdf`, import.meta.url);
 }
 </script>

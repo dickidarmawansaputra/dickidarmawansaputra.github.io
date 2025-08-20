@@ -16,7 +16,7 @@ const dataStore = useData();
                     {{ dataStore.authorName() }}</h1>
                 <h2 class="text-4xl font-extrabold dark:text-white">{{ dataStore.authorTitle() }}</h2>
                 <hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700">
-                <h5 class="text-xl font-bold dark:text-white"><mark class="px-2 text-white bg-blue-600 rounded-sm dark:bg-blue-500">{{ dataStore.authorSubtitle() }}</mark></h5>
+                <h5 class="text-xl font-bold dark:text-white"><mark class="px-2 text-white dark:text-gray-900 bg-gray-800 hover:bg-gray-900 rounded-sm dark:bg-white dark:hover:bg-white">{{ dataStore.authorSubtitle() }}</mark></h5>
                 <blockquote
                     class="p-4 my-4 border-s-4 border-gray-300 bg-gray-50 dark:border-gray-500 dark:bg-gray-800 text-justify">
                     <p class="text-md italic font-medium leading-relaxed text-gray-900 dark:text-white">{{
