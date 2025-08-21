@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "company": "Coconut Lab",
+    "logo": "coconutlab.png",
+    "title": "Backend Developer",
+    "period": "Jun 2025 - Present (Remote - Singapore)",
+    "isLatest": true
+  },
+  {
+    "id": 2,
+    "company": "Gak Gendut Lagi (GGL) / Bloom360",
+    "logo": "ggl.png",
+    "title": "Backend Engineer",
+    "period": "Feb 2024 - Aug 2024 (Remote - Surabaya, Indonesia)",
+    "isLatest": false
+  },
+  {
+    "id": 3,
+    "company": "RevivaLTV",
+    "logo": "revivaltv.svg",
+    "title": "Backend Developer",
+    "period": "Nov 2021 - Jun 2022 (Remote - Jakarta, Indonesia)",
+    "isLatest": false
+  },
+  {
+    "id": 4,
+    "company": "Oxxo Creative Digital Agency",
+    "logo": "oxxo.png",
+    "title": "Backend Developer",
+    "period": "May 2020 - Jul 2021 (Remote - Jakarta, Indonesia)",
+    "isLatest": false
+  },
+  {
+    "id": 5,
+    "company": "Idekite Indonesia",
+    "logo": "idekite.png",
+    "title": "Software Engineer",
+    "period": "Nov 2017 - Jan 2019 (Pontianak, Indonesia)",
+    "isLatest": false
+  }
+]

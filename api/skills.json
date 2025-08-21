@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Payload",
+    "image": "payload.png",
+    "description": "Payload is the open-source Next.js backend used in production by the most innovative companies on earth.",
+    "url": "https://payloadcms.com"
+  },
+  {
+    "id": 2,
+    "name": "Laravel",
+    "image": "laravel.png",
+    "description": "Laravel is a web application framework with expressive, elegant syntax.",
+    "url": "https://laravel.com"
+  },
+  {
+    "id": 3,
+    "name": "Apiato",
+    "image": "apiato.png",
+    "description": "A powerful PHP web framework for building scalable, enterprise-grade APIs.",
+    "url": "https://apiato.io"
+  },
+  {
+    "id": 4,
+    "name": "Filament",
+    "image": "filament.png",
+    "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app.",
+    "url": "https://filamentphp.com"
+  },
+  {
+    "id": 5,
+    "name": "Directus",
+    "image": "directus.png",
+    "description": "Turn your database into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+    "url": "https://directus.io"
+  },
+  {
+    "id": 6,
+    "name": "Livewire",
+    "image": "livewire.png",
+    "description": "A full-stack framework for Laravel that allows you to build dynamic UI components without leaving PHP.",
+    "url": "https://livewire.laravel.com"
+  },
+  {
+    "id": 7,
+    "name": "Meilisearch",
+    "image": "meilisearch.png",
+    "description": "A lightning-fast search engine API that fits effortlessly into your apps, websites, and workflow.",
+    "url": "https://meilisearch.com"
+  },
+  {
+    "id": 8,
+    "name": "Redis",
+    "image": "redis.png",
+    "description": "Redis is an in-memory database that persists on disk.",
+    "url": "https://redis.io"
+  },
+  {
+    "id": 9,
+    "name": "Docker",
+    "image": "docker.png",
+    "description": "Docker is an open platform for developing, shipping, and running applications.",
+    "url": "https://docker.com"
+  },
+  {
+    "id": 10,
+    "name": "Playwright",
+    "image": "playwright.png",
+    "description": "Playwright enables reliable end-to-end testing for modern web apps.",
+    "url": "https://playwright.dev"
+  },
+  {
+    "id": 11,
+    "name": "PHPUnit",
+    "image": "phpunit.png",
+    "description": "PHPUnit is a programmer-oriented testing framework for PHP.",
+    "url": "https://phpunit.de"
+  },
+  {
+    "id": 12,
+    "name": "PEST",
+    "image": "pestphp.png",
+    "description": "Pest is a testing framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.",
+    "url": "https://pestphp.com"
+  },
+  {
+    "id": 13,
+    "name": "PostgreSQL",
+    "image": "postgresql.png",
+    "description": "The World's Most Advanced Open Source Relational Database.",
+    "url": "https://postgresql.org"
+  },
+  {
+    "id": 14,
+    "name": "MySQL",
+    "image": "mysql.png",
+    "description": "MySQL is the world's most popular open source database.",
+    "url": "https://mysql.com"
+  },
+  {
+    "id": 15,
+    "name": "Fiber",
+    "image": "fiber.png",
+    "description": "Fiber is a Go web framework built on top of Fasthttp, the fastest HTTP engine for Go.",
+    "url": "https://frankenphp.dev"
+  },
+  {
+    "id": 16,
+    "name": "Vue",
+    "image": "vue.png",
+    "description": "An approachable, performant and versatile framework for building web user interfaces.",
+    "url": "https://vuejs.org"
+  },
+  {
+    "id": 17,
+    "name": "Git",
+    "image": "git.png",
+    "description": "Distributed VCS designed to handle everything from small to very large projects with speed and efficiency.",
+    "url": "https://git.com"
+  },
+  {
+    "id": 18,
+    "name": "PHPStan",
+    "image": "phpstan.png",
+    "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+    "url": "https://phpstan.org"
+  },
+  {
+    "id": 19,
+    "name": "Bootstrap",
+    "image": "bootstrap.png",
+    "description": "Powerful, extensible, and feature-packed frontend toolkit.",
+    "url": "https://getbootstrap.com"
+  },
+  {
+    "id": 20,
+    "name": "Tailwind CSS",
+    "image": "tailwindcss.png",
+    "description": "A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.",
+    "url": "https://tailwindcss.com"
+  }
+]
